@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="791bae9640199f717bb843ecb530b57c680acbb5">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8df3e6ae5ff0bedceeda4d9c1d9df2887deb192e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\0a39a05b47c97a07429fb21e4168cf98488b968a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a3c1365dcce55a9576c3753bd338a28efee17d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\08115e322af8032e2a3c395d53e6a385a692b581\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e3d3c94305c63a7d6d267cd2b54ec5f9222d31">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2845d5371e54c6d710244657501875c1dc353255\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\560b4a5aeec7edaa44c09195e28916e0434dabe8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_696366e2a6c8308eb0ce22e8fd0435ff038ca6a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\1c3558bbe298278ed4b6c6fa16b8f14ac5ae99c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5dacf122815a1bed2fa59581356003a63cee7c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_98a4439a5cc4864fcc3acdccd2b1a00c1ea36b79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\d200270302e3704ab30bdfa8fe9005b5ee4df5b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af63736cc52af4ca1eb333954f3106c4fef146d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_f2d74f3bc1c37394abadf3db30028de3cec177f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\f3a87925bcf4bd0f865f1f38ebdf0e3e9e2c9dca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2bd1f02b4a3bfad690d28a2be7e94f1c5d09bfd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\c488ec8d49506f4f934a8019fce2ed450b9ff0c1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4843d939311f52d3d13ba120c73d51f8854ec69f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_8755e111c0be03bb19152b3a1d7d0f84c39a687c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\8581cb87e9e2bab163f543a81164c3b815d44af7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_858d0c48cb5a65c7db0a28c9d0f0efb1f5a463a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\b0d053723e081ce1075e4cafa13d2d6c017ea34b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5f6a3624b82efe77c8ecb16ba754273d1a976030\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\b2bfa6a8e853bceaaed8589e16ca477dd946046e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4615bf3475fae4af8b15fadf58ab4662868b5100\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\707d24bfb7df3ae0362d0224254e47042b0b4fc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cdf5bd6fc073e0bb3a17b84f5cab70500c85de4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_355325f490b00cb2dc550a8bc6f307ab928e223d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\1cfcef08e0c8cf4fb0343bfdb79bca8b7dcdfbd2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a99409df119a2bdec8b4b5c3008f476455fa83e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pcampbell\.android\build-cache\35900f8c175cd067f4af3d2c5cc9c5fb1c680182\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="H:\droid\repos\topic07-android-RecyclerView\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a7246cb30176454d08627b25a394b77161c4a046\classes.dex" />
+    </item>
+
+</items>

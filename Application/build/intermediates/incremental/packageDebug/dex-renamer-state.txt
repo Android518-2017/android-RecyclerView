@@ -1,0 +1,7 @@
+#Mon Oct 16 14:12:20 EDT 2017
+base.0=H\:\\droid\\repos\\topic07-android-RecyclerView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_98a4439a5cc4864fcc3acdccd2b1a00c1ea36b79
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=H\:\\droid\\repos\\topic07-android-RecyclerView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8df3e6ae5ff0bedceeda4d9c1d9df2887deb192e\\classes.dex
+base.1=H\:\\droid\\repos\\topic07-android-RecyclerView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8df3e6ae5ff0bedceeda4d9c1d9df2887deb192e
+file.0=H\:\\droid\\repos\\topic07-android-RecyclerView\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_98a4439a5cc4864fcc3acdccd2b1a00c1ea36b79\\classes.dex
